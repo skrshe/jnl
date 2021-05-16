@@ -1,4 +1,4 @@
-        __title: u7198321_11683_Assignment2__
+# __title: u7198321_11683_Assignment2__
 
 # T1E1: Introduction - Sun May 16 07:44:51 PM AEST 2021
 
@@ -18,9 +18,9 @@ I'm looking forward to making many many more things...
 
 one of my previous works below:
 
-<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/7_pksmsTEmQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="1280" height="864" src="https://www.youtube.com/embed/7_pksmsTEmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-        ***Figure 1***
+***Figure 1***
 
 ## Figures
 
