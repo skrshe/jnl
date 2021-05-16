@@ -1,6 +1,6 @@
 # title: u7198321_11683_Assignment2
 
-# T1E1: Introduction.md
+# T1E1: Introduction - Sun May 16 07:44:51 PM AEST 2021
 ## Post a brief introduction about yourself and what you hope
 to gain out of the subject.
 /
@@ -22,7 +22,7 @@ one of my previous works below:
 ## Figures
 Figure 1: Krashe's influence on Youtube: <a href="https://www.youtube.com/7_pksmsTEmQ">youtube.com/7_pksmsTEmQ</a>
 
-# T1E2: Previous Knowledge
+# T1E2: Previous Knowledge - Sun May 16 07:44:51 PM AEST 2021
 ## Post up the previous knowledge that you have gained that will assist in this unit.
 ### electives in school:
 - Visual Design
@@ -33,22 +33,22 @@ Figure 1: Krashe's influence on Youtube: <a href="https://www.youtube.com/7_pksm
 ### experiences
 lego Mindstorm classes with CSIRO
 
-# T1E3: Australian Game Industry
+# T1E3: Australian Game Industry - Sun May 16 07:44:51 PM AEST 2021
 ## Discuss your experience with the Australian Games Industry.
 
 jetpack joyride
 hollownight hype
 antichamber
 
-# T2E1: Driving Sim Prototype
+# T2E1: Driving Sim Prototype - Sun May 16 07:44:51 PM AEST 2021
 ## Post a GIF of your completed Driving Sim prototype and reflect on your
 overall experience developing the prototype.
 
-# T2E2: Indie Game Research
+# T2E2: Indie Game Research - Sun May 16 07:44:51 PM AEST 2021
 ## Post an annotated bibliography of your research surrounding an Australian
 indie game or indie game franchise.
 
-# T2E3: Problem Solving
+# T2E3: Problem Solving - Sun May 16 07:44:51 PM AEST 2021
 ## Reflect on a complex problem you have solved. Make sure list the Initial
 State, the Operators, and the Goal State.
 
