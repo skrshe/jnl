@@ -1,4 +1,4 @@
-        # title: u7198321_11683_Assignment2
+        __title: u7198321_11683_Assignment2__
 
 # T1E1: Introduction - Sun May 16 07:44:51 PM AEST 2021
 
@@ -20,11 +20,11 @@ one of my previous works below:
 
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/7_pksmsTEmQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-        _Figure 1_
+        ***Figure 1***
 
 ## Figures
 
-Figure 1: Krashe's influence on Youtube: youtube.com/7_pksmsTEmQ
+Figure 1: Krashe's influence on Youtube: https://www.youtu.be/7_pksmsTEmQ
 
 # T1E2: Previous Knowledge - Sun May 16 07:44:51 PM AEST 2021
 
@@ -72,14 +72,14 @@ webpage provided
 
 process:
 
-1 - search for unity `2020.2.2f` linux on the webs
-2 - find git repository with bunch of official links
-3 - copy link to the linux version
-4 - use curl to download the archive from the link
-5 - set where unityhub stores the versions
-6 - open the archive and make sure the unity editor is in the right directory
+1. search for `unity 2020.2.2f` linux on the webs
+2. find git repository with bunch of official links
+3. copy link to the linux version
+4. use curl to download the archive from the link
+5. set where unityhub stores the versions
+6. open the archive and make sure the unity editor is in the right directory
 compared to other versions
-7 - run unity on linux
+7. run unity on linux
 
 # T3E1: Vertical Shooter Progress
 
