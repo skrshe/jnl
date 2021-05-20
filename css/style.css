@@ -44,38 +44,60 @@ table {
 	border-spacing: 0;
 }
 /* - */
+
 body {
     font-family: Ubuntu, Calibri, sans-serif;
     color: #ddd;
     background-color: #333;
 }
+
 header, footer {
     padding ;
     margin 5px 5px;
 }
+
 a {
     color: #33ffee;
     font-weight: bold;
 }
+
 strong, b {
     font-weight: bold;
     margin: 100px 0;
 }
+
 em, i {
     font-weight: italic;
 }
+
+header, h1 {
+    font-size: 2.5em; /* 40px/16=2.5em */
+    padding px 0;
+}
+
+h2 {
+    font-size: 1.875em; /* 30px/16=1.875em */
+}
+
+p {
+    margin-bottom: 5px;
+}
+
 pre, code, tt {
     font-family: monospace;
     background-color: #333;
 }
+
 code, tt {
-    padding: 0 5px;
+    padding: 5px 5px;
 }
+
 pre {
     line-height: 1.5em;
     padding: 0 5px;
     margin: 5px 0;
 }
+
 #container {
     padding: 1em
 }
