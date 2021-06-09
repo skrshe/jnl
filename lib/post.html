@@ -1,6 +1,7 @@
         <div class=content>
             $if(title)$
             <h1 class="title">$title$</h1>
+            $endif$
             $if(subtitle)$
             <p class="subtitle">$subtitle$</p>
             $endif$
@@ -9,7 +10,6 @@
             $endfor$
             $if(date)$
             <p class="date">$date$</p>
-            $endif$
             $endif$
             $if(toc)$
             <nav id="$idprefix$TOC" role="doc-toc">
