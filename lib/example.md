@@ -1,6 +1,5 @@
 ---
-author:
-- John MacFarlane
+author: John MacFarlane
 date: May 31, 2021
 title: Pandoc User's Guide
 ---
