@@ -1,12 +1,13 @@
 body {
     font-family: Ubuntu, Calibri, sans-serif;
+	font-size: 2em;
     color: #ddd;
     background-color: #333;
 }
 
 header, footer {
-    padding ;
-    margin 5px 5px;
+    /*padding: ;*/
+    margin: 5px 5px;
 }
 
 ul, menu, dir {
